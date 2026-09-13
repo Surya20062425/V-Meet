@@ -1,4 +1,4 @@
-# OpenMeet v1 — Step-by-Step Build Process
+#V-Meet v1 — Step-by-Step Build Process
 
 Follow this in order. Each step builds on the one before it — don't jump ahead to SDK packaging before group calls work, don't start moderation before chat exists.
 
