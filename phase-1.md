@@ -1,8 +1,3 @@
-#V-Meet v1 — Step-by-Step Build Process
-
-Follow this in order. Each step builds on the one before it — don't jump ahead to SDK packaging before group calls work, don't start moderation before chat exists.
-
----
 
 ## Phase 1: Foundation (Weeks 1-2)
 
